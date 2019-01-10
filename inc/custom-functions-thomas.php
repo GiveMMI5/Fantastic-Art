@@ -5,3 +5,4 @@ wp_enqueue_script( '<Nom_du_script>', get_template_directory_uri() . '/js/<Nom_d
 
 /* -- exemple appel CSS (remplacer ce qui est entre < >)
 wp_enqueue_style( '<Nom_du_script>', get_template_directory_uri() . '/layouts/<Nom_du_fichier_.css>',false,'1.1','all'); */
+
